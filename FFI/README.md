@@ -24,3 +24,8 @@ foreign import ccall "math.h sin"
      c_sin :: CDouble -> CDouble
 ```
 
+## Example
+
+`hs-concepts`
+
+[ForeignFunctionC](../hs-concepts/src/ForeignFunctionC.hs)
